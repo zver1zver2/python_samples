@@ -15,3 +15,6 @@ print("Это изменение только в ветке, main пока не 
 revenue = (100, 120, 200, 155, 301)
 for i in revenue:
   print(i)
+
+# Just new code
+print("Hello world")
