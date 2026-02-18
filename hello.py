@@ -10,3 +10,8 @@ print("GitHub — это круто!")
 age = 25  # или твой возраст :)
 print(f"Мне {age} лет, и я учу GitHub!")
 print("Это изменение только в ветке, main пока не трогаем")
+
+# Это новый код в branch.002
+revenue = (100, 120, 200, 155, 301)
+for i in revenue:
+  print(i)
